@@ -293,44 +293,6 @@
     {
       "type": "Feature",
       "properties": {
-        "level": 1,
-        "name": "Bird Exhibit",
-        "height": 40,
-        "base_height": 0,
-        "color": "grey"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -87.618312,
-              41.866283
-            ],
-            [
-              -87.61797,
-              41.866288
-            ],
-            [
-              -87.617972,
-              41.866265
-            ],
-            [
-              -87.618312,
-              41.866259
-            ],
-            [
-              -87.618312,
-              41.866283
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "id": "43e1e2fc8399dee075ad59764f2a2878"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Arch",
         "level": 1,
         "color": "grey",
