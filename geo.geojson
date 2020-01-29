@@ -50,52 +50,6 @@
       "type": "Feature",
       "properties": {
         "level": 1,
-        "name": "Bird Exhibit",
-        "height": 40,
-        "base_height": 0,
-        "color": "grey"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -87.617808,
-              41.866266
-            ],
-            [
-              -87.617806,
-              41.866293
-            ],
-            [
-              -87.617415,
-              41.866298
-            ],
-            [
-              -87.617424,
-              41.866671
-            ],
-            [
-              -87.617382,
-              41.866669
-            ],
-            [
-              -87.617371,
-              41.866274
-            ],
-            [
-              -87.617808,
-              41.866266
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "id": "08a10ab2bf15c4d14669b588062f7f08"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "level": 1,
         "name": "East Hallway",
         "base_height": 0,
         "height": 0,
