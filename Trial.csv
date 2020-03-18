@@ -1,0 +1,42 @@
+id,nama_fitur,lat,long,arah
+0,Tangga kecil sayap utara barat laut,110.378083,-7.767628,1
+1,KMP sayap utara barat laut,110.378163,-7.767465,2
+2,Tangga sayap utara barat laut,110.378116,-7.767458,3
+3,KML sayap utara barat laut,110.378124,-7.767582,4
+4,Wesel board,110.378666,-7.767601,5
+5,DKM,110.378293,-7.76764,6
+6,Tangga Balairung selatan,110.378583,-7.767764,7
+7,Tangga Balairung utara,110.378665,-7.767492,8
+8,Tangga Balairung timur,110.378753,-7.767646,9
+9,Tangga Balairung barat,110.378503,-7.76757,10
+10,Balairung,110.378618,-7.767648,11
+11,Loket DK,110.378825,-767802,12
+12,DK,110.378988,-7.767847,13
+13,TKutara1,110.378494,-7.767227,-1
+14,TKutara2,110.379053,-7.767417,-1
+15,KMP sayap utara timur laut,110.379097,-7.767744,14
+16,KML sayap utara timur laut,110.379064,-7.767861,15
+17,Tangga sayap utara timur laut,110.379137,-7.767767,16
+18,Tangga kecil sayap utara timur laut,110.379074,-7.767923,17
+19,TKtimur1,110.37935,-7.768055,-1
+20,TKtimur2,110.379239,-7.768429,-1
+21,Tangga kecil sayap selatan tenggara,110.378964,-7.768284,18
+22,KMP sayap selatan tenggara,110.378886,-7.768443,19
+23,KML sayap selatan tenggara,110.378921,-7.768329,20
+24,Tangga sayap selatan tenggara,110.378931,-7.768452,21
+25,DSDM,110.378686,-7.768249,22
+26,Tangga utara KTURT,110.378479,-7.768106,23
+27,Tangga barat KTURT,110.378329,-7.768153,24
+28,Tangga timur KTURT,110.378578,-7.768225,25
+29,Tangga kecil selatan KTURT 1,110.378261,-7.768343,26
+30,Tangga kecil selatan KTURT 2,110.37853,-7.768423,27
+31,KTURT,110.378449,-7.7698319,28
+32,Post Center KTURT,110.378353,-7.76829,29
+33,Fortakgama,110.378252,-7.768258,30
+34,HMP,110.378057,-7.768199,31
+35,KHO,110.378257,-7.768121,32
+36,KMP sayap selatan barat daya,110.377952,-7.768161,33
+37,KML sayap selatan barat daya,110.377986,-7.768048,34
+38,Tangga sayap selatan barat daya,110.377911,-7.768145,35
+39,Tangga kecil sayap selatan barat daya,110.377974,-7.767986,36
+40,Tkselatan,110.378693,-7.768804,-1
